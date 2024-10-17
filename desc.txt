@@ -1,0 +1,21 @@
+Tasks to be offloaded:
+    Email confirmations
+    PDF Generation
+    Report Generation
+    Data backups & Downloads
+    Machine Learning Results
+    Graphs & Charts
+    Webhook events
+    Long-running programs i.e data analytics/analysis
+
+
+
+Delay Tasks via user requests
+
+Examples of tasks 
+    End old user sessions
+    daily email notifications summaries at midnight
+    weekly database backups
+    every 6 hours, trigger our machine learning pipeline to train new Ml models
+    Send SMS every monday at 1:30pm to top 5 clients
+    
